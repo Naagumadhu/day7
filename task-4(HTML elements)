@@ -1,0 +1,55 @@
+<!-- List Tag -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <ul>
+            <li>Programming Language </li>
+        <ul>
+            <li>JavaScript
+        <ol type="a" start="1">
+                
+            <li>Angular</li>
+            <li>React</li>
+            <li>Vue.js</li>
+        </ol>
+        <ul>
+        </li>
+        </ul>
+           
+            <li>Python
+           
+        <ol type="a" start="1">
+
+            <li>Django Framework</li>
+            <li>Flask Framework</li>
+
+        </ol>
+           <li>java
+
+        <ol type="a" start="1">
+
+            <li>Spring</li>
+            <li>Maven</li>
+            <li>Hibernate</li>
+        </ol>
+      
+            
+        </ul>
+        <li>Database
+       <ul>
+   
+       
+            <li>Spring</li>
+                <li>Maven</li>
+                <li>Hibernate</li>
+            </ul>
+       </div>
+</body>
+</html>
