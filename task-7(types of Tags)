@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <label for=""></label>
+        <input type="text" id="">
+        <br>
+        &nbsp; 
+        <br><br>
+        <select name="" id="">
+        <option value=""></option>
+        <option value=""></option>
+        </select>
+        <h1>h1</h1>
+        <h2></h2>
+        <h3>to</h3>
+        <h4></h4>
+        <h5></h5>
+        <h6>h6</h6>
+        <ul></li>
+        <ol></ol>
+        <li></li>
+        <div></div>
+        <p></p>
+        <i></i>
+        <b></b>
+        <span></span>
+</body>
+</html>
