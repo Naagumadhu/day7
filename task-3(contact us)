@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <b>Contact&nbsp;us:</b>
+    <form action="">
+        <label for="fname">First Name</label>
+        &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp;<input type="text" id="fname" placeholder="First Name">
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
+        <label for="lname">Last Name</label>&nbsp;
+        &nbsp;&nbsp;  <input type="text" id="lname " placeholder="Last Name">
+        <br><br>
+        <label for="Pnum">Phone Number</label>&nbsp;&nbsp;&nbsp;
+        &nbsp;   <input type="text" id="Pnum" placeholder="enter phone number">
+&nbsp;&nbsp; 
+        <label for="Pnum">Email Address</label>
+        &nbsp;<input type="text" id="email" placeholder="enter email address">
+        <br><br>
+        <label for="Gender">Gender:</label>
+        
+        <label for="">Male</label>
+        <br><br><label for="Address">Address</label>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input type="text" id="address" placeholder="address">
+        <!--        
+        <select name="" id="Gender">
+            <option value="male">Male</option>
+            <option value="female">Female Male</option>
+
+        </select> -->
+
+    <!-- <input type="text" value="submit"> -->
+    <!-- <button>submit</button> -->
+
+</body>
+</html>
